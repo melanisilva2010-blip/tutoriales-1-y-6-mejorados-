@@ -12,3 +12,4 @@ public class MovimientoAcelerado : IMovementStrategy
         transform.Translate(velocidadActual * Time.deltaTime, 0, 0);
     }
 }
+
